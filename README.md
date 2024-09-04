@@ -1,11 +1,11 @@
 # react1-2
 
 
-##pages router 
+## pages router 
 ### 자동 라우팅 
 ### src/app/page.js 만 바꿔줘도 라우팅이 되는 반면에 
 
-##app router
+## app router
 ### 파일 생성 및 내부 소스 경로 수정해줘야함 (수동 라우팅)
 ### src/app/about/page.js 로 변경
 
