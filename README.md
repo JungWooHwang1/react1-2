@@ -10,6 +10,8 @@
 ### src/app/about/page.js 로 변경
 
 ### pages router 방법 불편하여 app router 방식이 나왔다.
+
 ### I think 간단한 웹 페이지 면  pages router 방식을 활용하는게 좋고 라우팅할 파일이 많고 무거우면 app router 방식이 좋을거 같다.
 
+## 프로젝트 생성 방법 
 
