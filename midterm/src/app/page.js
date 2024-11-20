@@ -6,6 +6,7 @@ export default function Home() {
 
 
   return (
+    // app router 라이브러리 설치하여 편하게 작업하려다가 오류를 잡지 못하고 제출한상태 입니다.
     <div className={styles.page}>
       <div>
         <NavLink to="/">
